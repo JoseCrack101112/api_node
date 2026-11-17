@@ -1,0 +1,9 @@
+{
+  "name": "api-estado-mediterraneo",
+  "version": "1.0.0",
+  "description": "API de estado de Distribuciones Mediterráneo S.L.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
